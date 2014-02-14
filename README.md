@@ -1,6 +1,6 @@
-Toontown-Central
+Cog-World
 ================
 
-Remake of Toontown Central from Disney's Toontown Online with Panda3D 1.8.1
+Remake of Cog-World from Disney's Toontown Online with Panda3D 1.8.1
 
-Version: 1.0.0 Beta
+Version: 1.0.0 
